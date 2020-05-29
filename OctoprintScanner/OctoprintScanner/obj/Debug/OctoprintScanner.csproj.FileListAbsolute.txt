@@ -1,0 +1,9 @@
+C:\Users\logan\OneDrive\Documents\GitHub\OctoprintDetector\OctoprintScanner\OctoprintScanner\bin\Debug\OctoprintScanner.exe.config
+C:\Users\logan\OneDrive\Documents\GitHub\OctoprintDetector\OctoprintScanner\OctoprintScanner\bin\Debug\OctoprintScanner.exe
+C:\Users\logan\OneDrive\Documents\GitHub\OctoprintDetector\OctoprintScanner\OctoprintScanner\bin\Debug\OctoprintScanner.pdb
+C:\Users\logan\OneDrive\Documents\GitHub\OctoprintDetector\OctoprintScanner\OctoprintScanner\obj\Debug\OctoprintScanner.csprojAssemblyReference.cache
+C:\Users\logan\OneDrive\Documents\GitHub\OctoprintDetector\OctoprintScanner\OctoprintScanner\obj\Debug\OctoprintScanner.OctoprintScanner.resources
+C:\Users\logan\OneDrive\Documents\GitHub\OctoprintDetector\OctoprintScanner\OctoprintScanner\obj\Debug\OctoprintScanner.Properties.Resources.resources
+C:\Users\logan\OneDrive\Documents\GitHub\OctoprintDetector\OctoprintScanner\OctoprintScanner\obj\Debug\OctoprintScanner.csproj.GenerateResource.cache
+C:\Users\logan\OneDrive\Documents\GitHub\OctoprintDetector\OctoprintScanner\OctoprintScanner\obj\Debug\OctoprintScanner.exe
+C:\Users\logan\OneDrive\Documents\GitHub\OctoprintDetector\OctoprintScanner\OctoprintScanner\obj\Debug\OctoprintScanner.pdb
